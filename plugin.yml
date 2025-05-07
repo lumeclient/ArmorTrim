@@ -1,0 +1,13 @@
+name: ArmorTrim
+author: MagmaZ3637 updated by Reqoan
+main: magma\trim\Main
+api: 5.0.0
+version: "1.0"
+
+commands:
+  trim:
+    permission: trim.command
+
+permissions:
+  trim.command:
+    default: true
